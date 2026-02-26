@@ -26,6 +26,7 @@ TQC+ 程式語言Python 101 整數格式化輸出
 |85    4    |
 |299   478  |
 '''
+
 a = eval(input())
 b = eval(input())
 c = eval(input())
